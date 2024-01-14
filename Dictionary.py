@@ -1,5 +1,3 @@
-hello = "https://www.dictionary.com/browse/hello"
-
 dict={"hello":"greet or way to start the communication \n\tsynonym is hii\n\tlink to read more : https://www.dictionary.com/browse/hello","hii":"form of greet to start a talk \n\tsynonym is hello"}
 
 choice = input("What do you want to do (search/add) : ")
